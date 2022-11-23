@@ -13,6 +13,8 @@ Um projeto que abrange um site WEB e uma adapatação Mobile, que trata do corpo
 - [@KevinGPGuerra](https://github.com/KevinGPGuerra)
 - [@mmarcusg](https://github.com/mmarcusg)
 - [@MateusCambraiaGHP](https://github.com/MateusCambraiaGHP)
+- [@MouserM0](https://github.com/MouserM0)
+- [@davidp434](https://github.com/davidp434)
 
 
 ## Variáveis de Ambiente
