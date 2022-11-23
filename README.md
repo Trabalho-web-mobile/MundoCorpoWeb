@@ -1,69 +1,33 @@
-
 # Mundo Corpo
-
-Um projeto que abrange o um site web, que trata do corpo(estetica) e auto estima, acima de tudo.
+Um projeto que abrange um site WEB e uma adapatação Mobile, que trata do corpo (estética/beleza) e auto estima acima de tudo.
 
 
 ## Autores
-
-- [@CarlosEduardoFSouza](https://github.com/CarlosEduardoFSouza)
-- [@mmarcusg](https://github.com/mmarcusg)
-- [@MateusCambraiaGHP](https://github.com/MateusCambraiaGHP)
 - [@Agregojr](https://github.com/Agregojr)
+- [@CarlosEduardoFSouza](https://github.com/CarlosEduardoFSouza)
 - [@zDieGoD](https://github.com/zDieGoD)
-- [@juliodex21](https://github.com/juliodex21)
-- [@KevinGPGuerra](https://github.com/KevinGPGuerra)
+- [@gaadriano](https://github.com/gaadriano)
 - [@igormar7ins](https://github.com/igormar7ins)
 - [@JuanHenrique04](https://github.com/JuanHenrique04)
+- [@juliodex21](https://github.com/juliodex21)
+- [@KevinGPGuerra](https://github.com/KevinGPGuerra)
+- [@mmarcusg](https://github.com/mmarcusg)
+- [@MateusCambraiaGHP](https://github.com/MateusCambraiaGHP)
+
 
 ## Variáveis de Ambiente
-
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
-
-`API_KEY`
-
-`ANOTHER_API_KEY`
+Este projeto foi desenvolvido utilizando técnologia Wordpress como estrutura para o site.
+Foi utilizado o Elementor, um page builder para construção de layouts para sites WEB e Mobile.
+Como banco de dados o MySql foi utilizado.
 
 
-## Funcionalidades
-
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Melhorias
-
-Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
-
-
-## Relacionados
-
-Segue alguns projetos relacionados
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+## Ferramentas
+- Xampp (para emular PHP e MySql)
+- VSCode para pequenas codificações.
 
 
 ## Usado por
+Esse não é utilizado por nenhuma empresa e tem fins meramente didáticos.
+Fica assim proibida sua reprodução para quaisquer fins lucrativos.
 
-Esse projeto é usado pelas seguintes empresas:
-
-- Empresa 1
-- Empresa 2
-
-
-## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
-
-
-## Apêndice
-
-Coloque qualquer informação adicional aqui
-
+## Belo Horizonte, 24 de Novembro de 2022.
